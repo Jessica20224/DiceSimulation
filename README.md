@@ -10,6 +10,7 @@ This project simulates rolling a 6-sided die 1000 times using Java's Math.random
 -Outputs total rolls and total percentage (should sum to 100%)
 
 How to Run
+
 Ensure you have Java installed (JDK 8 or above).
 
 Compile the code:
